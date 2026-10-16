@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет! Я Тетяна 👋
 
-<!--
-**Pybackendev/Pybackendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю Telegram-ботов и backend на Python для небольшого бизнеса: запись клиентов, магазины, мониторинг сайтов и автоматизация работы с API.
 
-Here are some ideas to get you started:
+**Python · aiogram 3 · FastAPI · asyncio · SQLite · PostgreSQL · Git · Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+| Проект | Что решает |
+| --- | --- |
+| [Booking Bot](https://github.com/Pybackendev/booking-bot) | Запись клиентов, управление расписанием и напоминания |
+| [Telegram Shop](https://github.com/Pybackendev/bot-shop) | Каталог, корзина и оформление заказов в Mini App; интеграция LiqPay |
+| [Site Monitor Bot](https://github.com/Pybackendev/site-monitor-bot) | Мониторинг текста веб-страниц и уведомления в Telegram |
+| [Freelance Aggregator](https://github.com/Pybackendev/aggregator) | Сбор заказов, фильтры, React-панель и Telegram-уведомления |
+
+## Чем могу помочь
+
+- Создать Telegram-бота под рабочий процесс бизнеса.
+- Добавить административные функции, напоминания и хранение данных.
+- Подключить внешнее API или разработать backend на FastAPI.
+- Доработать существующий Python-проект.
+
+## Связаться
+
+[Обсудить проект на Freelancehunt](https://freelancehunt.com/freelancer/Pybackendev.html)
+
